@@ -1,4 +1,4 @@
-#React Project 1
+#React Project 1 - no redux
 
 npm install
 npm start
