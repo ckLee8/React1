@@ -1,2 +1,5 @@
-# React1
-React project 1 - no redux
+#React Project 1 - no redux
+
+npm install
+npm start
+localhost:8080
